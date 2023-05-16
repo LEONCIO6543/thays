@@ -88,7 +88,7 @@
         <a class="exercise-link" href="#">Ver detalhes</a>
       </div>
     </div>
-    
+   
     <div class="exercise">
       <img class="exercisee-imag" src="https://th.bing.com/th/id/R.a4b3f80613c9c0b62b62f258df1da382?rik=eXg61XBhs%2boV%2fQ&riu=http%3a%2f%2fwww.infoescola.com%2fwp-content%2fuploads%2f2009%2f10%2fcaminhada.jpg&ehk=G62z6f5MO4LuSE2o7X8y6MnoAo213AiYTzyW7DtS0Mg%3d&risl=&pid=ImgRaw&r=0"Exercício 3">
       <div class="exercise-details">
